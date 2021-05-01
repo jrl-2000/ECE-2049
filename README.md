@@ -11,7 +11,15 @@ Lab 3 Time and Temperature Display
 
 Lab 4 SPI Communication
 
-Demo Porject
+Demo Project
+
+Lab 1 Report
+
+Lab 2 Report
+
+Lab 3 Report
+
+Lab 4 Report
 
 Temperature Sensor example
 
